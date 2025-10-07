@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Google%20Developer%20Groups%20On%20Campus%20UIC%20-%20%20Chapter%20Lead;Aspiring%20full-stack%20developer;Cybersecurity%20Enthusiast;&font=montserrat%20Code&center=true&width=700&height=50&color=5cf77b&vCenter=true&pause=1100&size=22" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=07F766&width=435&lines=Ateneo+de+Davao+University;Cybersecurity+Enthusiast;CSSEC+Source+Code;Ateneo+Circle+of+Computer+Enthusiast+for+Study+and+Success+(ACCESS);Ateneo+de+Davao+Mathematics+Society+(AdDAMS)" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
