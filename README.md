@@ -18,37 +18,22 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="center">
-  <a href="https://illmalicsi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-illmalicsi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/illmalicsi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ivan_Louie_Malicsi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:illmalicsi@addu.edu.ph">
-    <img src="https://img.shields.io/badge/Email-illmalicsi%40addu.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/illmalicsi">
-    <img src="https://img.shields.io/badge/GitHub-illmalicsi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am **Ivan Louie Malicsi**, a **Software Engineer & Full-Stack Developer** and Computer Science student at **Ateneo de Davao University**. I specialize in engineering high-performance web applications, client-side WebAssembly solutions, real-time 3D graphics, and resilient full-stack systems.
 
 With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an eye for clean UI/UX with rigorous software testing, defensive programming, and secure architectural practices.
 
-- 🔭 **Currently Building**: Zero-backend client-side database tools, reactive full-stack web platforms, and interactive WebGL experiences.
-- 🛡️ **Code Quality & Security**: Championing static code analysis, peer reviews, automated testing, and OWASP security standards.
-- 🎨 **Creative Technologist**: Merging physics-driven 3D simulations (Three.js / WebGL / GLSL) with modern reactive user interfaces.
-- 💡 **Philosophy**: Write clean, maintainable, and strictly typed code that scales efficiently from database query plans to user interactions.
+- **Currently Building**: Zero-backend client-side database tools, reactive full-stack web platforms, and interactive WebGL experiences.
+- **Code Quality & Security**: Championing static code analysis, peer reviews, automated testing, and OWASP security standards.
+- **Creative Technologist**: Merging physics-driven 3D simulations (Three.js / WebGL / GLSL) with modern reactive user interfaces.
+- **Philosophy**: Write clean, maintainable, and strictly typed code that scales efficiently from database query plans to user interactions.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### Tech Stack & Capabilities
 
 <table>
   <tr>
@@ -112,7 +97,7 @@ With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <thead>
@@ -132,8 +117,8 @@ With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an
         <code>React 19</code> • <code>TypeScript</code> • <code>SQLite WASM</code> • <code>Tailwind CSS</code> • <code>CodeMirror 6</code>
       </td>
       <td>
-        <a href="https://prismsql.vercel.app/" target="_blank">🌐 Live Demo</a><br />
-        <a href="https://github.com/illmalicsi/PrismSQL" target="_blank">💻 Source Code</a>
+        <a href="https://prismsql.vercel.app/" target="_blank">Live Demo</a><br />
+        <a href="https://github.com/illmalicsi/PrismSQL" target="_blank">Source Code</a>
       </td>
     </tr>
     <tr>
@@ -145,7 +130,7 @@ With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an
         <code>WebGL2</code> • <code>Three.js</code> • <code>GLSL Shaders</code> • <code>TypeScript</code> • <code>Web Audio API</code>
       </td>
       <td>
-        <a href="https://github.com/illmalicsi/quintessence-gl" target="_blank">💻 Source Code</a>
+        <a href="https://github.com/illmalicsi/quintessence-gl" target="_blank">Source Code</a>
       </td>
     </tr>
     <tr>
@@ -157,7 +142,7 @@ With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an
         <code>Three.js</code> • <code>WebGL</code> • <code>JavaScript</code> • <code>Vite</code>
       </td>
       <td>
-        <a href="https://github.com/illmalicsi/pocket-pet-rock" target="_blank">💻 Source Code</a>
+        <a href="https://github.com/illmalicsi/pocket-pet-rock" target="_blank">Source Code</a>
       </td>
     </tr>
     <tr>
@@ -169,7 +154,7 @@ With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an
         <code>React</code> • <code>Gemini AI</code> • <code>TypeScript</code> • <code>Tailwind CSS</code>
       </td>
       <td>
-        <a href="https://calotrack-me.vercel.app/" target="_blank">🌐 Live Demo</a>
+        <a href="https://calotrack-me.vercel.app/" target="_blank">Live Demo</a>
       </td>
     </tr>
     <tr>
@@ -181,7 +166,7 @@ With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an
         <code>React</code> • <code>Computer Vision</code> • <code>Node.js</code> • <code>PostgreSQL</code>
       </td>
       <td>
-        <a href="https://aslrecognition.vercel.app/" target="_blank">🌐 Live Demo</a>
+        <a href="https://aslrecognition.vercel.app/" target="_blank">Live Demo</a>
       </td>
     </tr>
   </tbody>
@@ -189,7 +174,7 @@ With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=illmalicsi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=07F766&icon_color=07F766&text_color=c9d1d9" alt="Ivan's GitHub Stats" />
@@ -202,15 +187,7 @@ With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an
 
 ---
 
-### 🏛️ Leadership & Involvement
-
-- **Source Code QA Head** — *Computer Studies Student Executive Council (CSSEC)*: Overseeing codebase reliability, code reviews, and software quality pipelines.
-- **Creative Team Member** — *Ateneo Circle of Computer Enthusiasts for Study and Success (ACCESS)*: Directing technical visual media, event branding, and student computing initiatives.
-- **Creatives & Media Member** — *Ateneo de Davao Mathematics Society (AdDAMS)*: Crafting visual communication and academic media assets.
-- **Hackathon Finalist** — *Team Tala Verde (NASA Space Apps Challenge)*: 48-hour sprint building real-world solutions on open NASA telemetry and Earth observation datasets.
-
----
-
 <p align="center">
-  <sub>Designed & engineered with ❤️ by <strong>Ivan Louie Malicsi</strong></sub>
+  <sub>Designed and engineered by <strong>Ivan Louie Malicsi</strong></sub>
 </p>
+
