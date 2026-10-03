@@ -22,7 +22,7 @@
 
 ### About Me
 
-I am **Ivan Louie Malicsi**, a **Software Engineer & Full-Stack Developer** and Computer Science student at **Ateneo de Davao University**. I specialize in engineering high-performance web applications, client-side WebAssembly solutions, real-time 3D graphics, and resilient full-stack systems.
+I am **Ivan Louie Malicsi**, a **Full-Stack Developer** and Computer Science student at **Ateneo de Davao University**. I specialize in building high-performance web applications, client-side WebAssembly solutions, real-time 3D graphics, and resilient full-stack systems.
 
 With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an eye for clean UI/UX with rigorous software testing, defensive programming, and secure architectural practices.
 
@@ -188,6 +188,6 @@ With leadership experience as **Source Code QA Head** at **CSSEC**, I combine an
 ---
 
 <p align="center">
-  <sub>Designed and engineered by <strong>Ivan Louie Malicsi</strong></sub>
+  <sub>Designed and developed by <strong>Ivan Louie Malicsi</strong></sub>
 </p>
 
